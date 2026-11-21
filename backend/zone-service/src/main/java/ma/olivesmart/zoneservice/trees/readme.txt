@@ -1,0 +1,1 @@
+recuperation des coordonnées des arbres, rognage de la zone en arbres, preparation des données pour le modèle,
