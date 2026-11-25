@@ -1,1 +1,0 @@
-Calcul des surfaces, validation si la parcelle est valide, etc.

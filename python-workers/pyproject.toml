@@ -1,0 +1,7 @@
+[project]
+name = "olive-smart"
+version = "0.1.0"
+description = "Here lie the python workers used for image processing and change detection"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = []

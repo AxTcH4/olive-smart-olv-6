@@ -1,0 +1,1 @@
+li 5dem fikoum chi partie deghya y3tiha l claude ygoulih y generer chi md file 3ta 7sab TEMPLATE.md fih char7 dyal dakchi li dar o y7to hna bach koulna nkounou fahmin projet kolo w ta7ed ma yt7enser
